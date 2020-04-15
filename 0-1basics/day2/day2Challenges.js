@@ -7,3 +7,8 @@ var person = {
     age: 23,
     gender: 'Male'
 }
+
+// console basics 
+console.time('response in');
+alert('Click to Continue');
+console.timeEnd('response in');
